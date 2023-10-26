@@ -168,6 +168,7 @@ h2 {
 header {
     margin-bottom: 110px;
     position: relative;
+    overflow: hidden; 
 }
 .headernone {
     display: none;
